@@ -1,6 +1,7 @@
 <div align="center">
   
-  <h3>🚀 Meu Stack Principal</h3>
+  <h3>Resolvendo Problemas envolvendo python</h3>
+  <h3>Tentando aprender Java Script</h3>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
