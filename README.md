@@ -30,8 +30,8 @@
 # GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozin9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin9&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozin9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozin9&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
@@ -42,12 +42,12 @@
   <a href="mailto:joao.alfredo@escolar.ifrn.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/vokinho">
-    <img src="https://img.shields.io/badge/Discord-vokinho-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/joaozin9">
-    <img src="https://img.shields.io/badge/GitHub-joaozin9-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ <a href="https://discord.com/users/vokinho">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+ </a>
+ <a href="https://github.com/joaozin9">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+ </a>
 </p>
 
 
