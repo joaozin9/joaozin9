@@ -16,9 +16,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: joaozin9
-          outputs: |
-            dist/pacman-contribution-graph.svg?gameTheme=github
-            dist/pacman-contribution-graph-dark.svg?gameTheme=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
