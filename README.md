@@ -12,15 +12,15 @@
 
 ---
 
-## 🚀 About me
+# 🚀 About me
 
-- 🎨 Frontend: HTML, CSS, JavaScript and React
-- 🐍 Backend: Python (learning)
-- 📍 Rio Grande do Norte, Brazil
+- Frontend: HTML, CSS, JavaScript and React
+- Backend: Python (learning)
+- Rio Grande do Norte, Brazil
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joaozin9&theme=tokyonight&hide_border=true" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🕹️ Contribution Graph
+# 🕹️ Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaozin9/joaozin9/output/pacman-contribution-graph-dark.svg">
